@@ -1,4 +1,5 @@
 # git_assignment_2
 Software Engineering Assignment
 Collaborators:
-Advait Mishra 2024BCS003 (Owner)
+Name:Advait Mishra  (Owner)
+Roll No:2024BCS003
