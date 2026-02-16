@@ -1,0 +1,8 @@
+Repositories: A repository (or "repo") is the central place where all project files, code, and documents are stored, organized, and tracked.
+Branches: This feature allows developers to diverge from the main codebase to work on new features or bug fixes in isolation without affecting the primary version of the code.
+Pull Requests (PRs): Pull requests are a core collaboration tool, enabling developers to propose changes, request code reviews, discuss potential improvements, and track updates before merging their branch into the main project.
+Issues and Bug Tracking: GitHub provides built-in issue-tracking tools to report bugs, request features, and discuss problems, which helps teams efficiently manage and resolve errors.
+GitHub Actions: This feature allows for the automation of workflows, such as testing code, building projects, and deploying applications directly within the repository.
+Code Hosting: GitHub offers cloud-based hosting for both public and private repositories, making projects accessible from anywhere with internet access.
+Project Management Tools: Integrated project management features, including task boards, milestones, and issue assignment, help teams organize tasks and monitor progress effectively.
+Wikis and Documentation: Users can create detailed documentation for their projects using the platform's wiki feature, helping other team members and users understand how the project works. 
