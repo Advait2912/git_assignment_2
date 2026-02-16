@@ -5,4 +5,4 @@ Issues and Bug Tracking: GitHub provides built-in issue-tracking tools to report
 GitHub Actions: This feature allows for the automation of workflows, such as testing code, building projects, and deploying applications directly within the repository.
 Code Hosting: GitHub offers cloud-based hosting for both public and private repositories, making projects accessible from anywhere with internet access.
 Project Management Tools: Integrated project management features, including task boards, milestones, and issue assignment, help teams organize tasks and monitor progress effectively.
-Wikis and Documentation: Users can create detailed documentation for their projects using the platform's wiki feature, helping other team members and users understand how the project works. 
+Wikis and Documentation: Users can create detailed documentation for their projects using the platform's wiki feature, helping other team members and users understand how the **project.** 
